@@ -1,0 +1,45 @@
+h1{
+    font-family:arial;
+    border: 3px solid hsl(300, 100%, 25%);
+    border-radius: 20px;
+    text-shadow: 3px 4px 5px rgb(190, 39, 39), 4px 3px 6px rgb(17, 197, 17);
+
+}
+p{
+    border-bottom: 3px solid rgb(55, 0, 255);
+    border-top: 3px solid rgb(78, 39, 39);
+    border-left:3px groove yellow;
+    border-right:3px dotted green;
+    font-family:verdana,arial;
+    font-size:1em;
+    font-weight:bold;
+    font-style:italic ;
+}
+body{
+    margin: 0px;
+    border: 3px solid;
+}
+.box{
+    border: 5px solid;
+    font-size: 6em;
+    width: 250px;
+    height: 250px;
+
+}
+#box1{
+    background-color: aqua;
+    margin:auto
+}
+#box2{
+    background-color: rgb(23, 107, 107);
+    margin-left: 850px;
+}
+#img1{
+    float: left;
+    margin-right: 25px;
+
+}
+#img2{
+    float: right;
+    margin-right:25px ;
+}
